@@ -1,17 +1,17 @@
 # Bloco 01: Unix & Bash
 
-Como funciona o Unix e como interagir com ele através do terminal, utilizando o Bash
+Como funciona o Unix e como interagir com ele através do terminal, utilizando o Bash.
 
 ## Os principais pontos abordados foram:
 
-  Os principais componentes
+  Os principais componentes.
 
-  Suas variações
+  Suas variações.
 
-  Arquivos e processos
+  Arquivos e processos.
 
-  A estrutura de diretórios
+  A estrutura de diretórios.
 
-  O terminal
+  O terminal.
 
-  Comandos executados no Shell
+  Comandos executados no Shell.
