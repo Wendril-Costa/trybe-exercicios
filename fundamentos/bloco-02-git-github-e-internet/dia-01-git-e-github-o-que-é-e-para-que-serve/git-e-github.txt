@@ -1,0 +1,16 @@
+Como criar um repositorio local
+
+Adicionando e comitando arquivos
+
+Criando um repositório no GitHub
+
+Conectando o repositório local com o remoto
+
+Sincronizando os repositórios
+
+Instalação e configuração do Git
+
+Criar conta no GitHub
+
+Adicionando uma chave SSH na sua conta do GitHub
+
