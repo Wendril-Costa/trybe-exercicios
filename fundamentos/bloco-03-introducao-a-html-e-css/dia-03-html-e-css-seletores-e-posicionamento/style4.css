@@ -1,0 +1,47 @@
+div:hover {
+    background-color: darkorange;
+}
+
+.darkred {
+   background-color: darkred;
+}
+
+.green{
+    background-color: green;    
+}
+
+.yellow {
+    background-color: yellow;
+    padding: 10px;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.orange {
+    background-color: orange;
+}
+
+#um {
+    color: grey;
+    font-style: italic;
+}
+
+#dois {
+    color:hotpink;
+}
+
+#tres {
+    color: indigo;
+    font-style: italic;
+}
+
+#quatro {
+    color: khaki;
+}
+
+#cinco {
+    color: lightseagreen;
+    font-style: italic;
+}

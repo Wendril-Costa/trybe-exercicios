@@ -1,0 +1,60 @@
+ol {
+    background-color: yellow;
+    font-weight: 900;
+}
+
+ol li:nth-child(even){
+    color: green;
+    
+}
+
+ol li:nth-child(odd){
+    text-transform:uppercase ;
+}
+
+h1, h2, h3{
+    color: red;
+}
+
+.italic {
+   font-size: 40px;
+   border: 1px solid black;
+}
+
+li {
+    font-size: 20px;
+}
+
+.blue {
+    color: blue;
+}
+
+.rosa {
+    background-color: pink;
+}
+
+ul.links:hover {
+    font-weight: 900;
+    
+}
+
+.orange {
+    color: orange;
+}
+
+.green {
+    color: green;
+}
+
+.black {
+    color: black;
+}
+
+.yellow {
+    color: yellow;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
