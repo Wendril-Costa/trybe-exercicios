@@ -1,0 +1,17 @@
+p, h1{
+    text-align: center;
+    
+}
+
+li:hover {
+    background-color: darkmagenta;
+}
+
+li:active {
+    background-color: darkgray;
+}
+
+ol, ul {
+    list-style: none;
+    text-align: center;
+}
