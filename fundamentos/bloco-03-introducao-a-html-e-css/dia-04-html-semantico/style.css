@@ -1,42 +1,9 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}    
+
 h1 {
     text-align: center;
-  }
-
-  .first {
-    background-color: rgb(235, 200, 84);
-    font-size: 20px;
-    height: 50px;
-    text-align: center;
-    width: 200px;
-    margin-left: 500px;
-  }
-
-  .second {
-    background-color: rgb(219, 219, 219);
-    font-size: 20px;
-    height: 50px;
-    text-align: center;
-    width: 300px;
-    display: inline-block;
-    margin-left: 300px;
-  }
-
-  .third {
-    background-color: rgb(170, 142, 106);
-    font-size: 20px;
-    height: 50px;
-    text-align: center;
-    width: 300px;
-    display: inline-block;
-  }
-
-  li {
-    list-style: none;
-  }
-
-  .center {
-    text-align: center;
-  }
-  section.center ul li {
-    display: inline;
-  }
+}
